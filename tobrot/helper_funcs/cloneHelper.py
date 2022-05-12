@@ -112,7 +112,7 @@ class CloneHelper:
             button.append(
                 [
                     pyrogram.InlineKeyboardButton(
-                        text="🔮 CLOUD LINK", url=f"{gau_link}"
+                        text="🌩️ CLOUD LINK", url=f"{gau_link}"
                     )
                 ]
             )
@@ -126,7 +126,7 @@ class CloneHelper:
                 button.append(
                     [
                         pyrogram.InlineKeyboardButton(
-                            text="💡 𝐈𝐧𝐝𝐞𝐱 𝐋𝐢𝐧𝐤", url=f"{tam_link}"
+                            text="📎 𝐈𝐧𝐝𝐞𝐱 𝐋𝐢𝐧𝐤", url=f"{tam_link}"
                         )
                     ]
                 )
