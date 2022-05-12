@@ -170,4 +170,8 @@ status - get downloads status
 ```
 
 
-FOR COMMAND SAY ME THANKS HERE [ID - Error 404 ](https://t.me/ERROR_404_V1)
+FOR COMMAND SAY ME THANKS HERE 
+
+IF ANY COMMAND DOEST NOT WORKING GIVE ME CORRECT COMMAND HERE 
+
+ [ID - Error 404 ](https://t.me/ERROR_404_V1)
