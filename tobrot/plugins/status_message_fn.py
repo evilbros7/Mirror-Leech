@@ -88,9 +88,9 @@ async def status_message_f(
                 msg += f"<b>════════════════════════════════</b>\n"
                 msg += f"\n<b>{downloading_dir_name}</b>"
                 msg += f"\n<b>{prog}</b>"
-                msg += f"\n<b>Speed</b>: {file.download_speed_string()}"
-                msg += f"\n<b>Status</b>: {file.progress_string()} <b>of</b> {file.total_length_string()}"
-                msg += f"\n<b>ETA:</b> {file.eta_string()}"
+                msg += f"\n<b>Speed 🚀</b>: {file.download_speed_string()}"
+                msg += f"\n<b>Status ⌛</b>: {file.progress_string()} <b>of</b> {file.total_length_string()}"
+                msg += f"\n<b>ETA ⏰:</b> {file.eta_string()}"
                 msg += f"\n{msgg}"
                 msg += f"\n<b>To Cancel:</b> <code>/cancel {file.gid}</code>"
                 msg += "\n"
@@ -104,9 +104,9 @@ async def status_message_f(
         free = humanbytes(free)
 
         ms_g = (
-            f"<b>Bot Uptime</b>: <code>{hr} : {mi} : {se}</code>\n"
+            f"<b>Bot Uptime ⏰</b>: <code>{hr} : {mi} : {se}</code>\n"
             f"<b>T:</b> <code>{total}</code> <b>U:</b> <code>{used}</code> <b>F:</b> <code>{free}</code>\n"
-            f"<b>RAM:</b> <code>{ram}%</code> <b>CPU:</b> <code>{cpu}%</code>\n"
+            f"<b>RAM 🚀:</b> <code>{ram}%</code> <b>CPU:</b> <code>{cpu}%</code>\n"
         )
         if msg == "":
             msg = "🤷‍♂️ No Active, Queued or Paused TORRENTs"
