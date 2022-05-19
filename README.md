@@ -27,6 +27,9 @@ status - get downloads status
 
 FOR COMMAND SAY ME THANKS HERE 
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/evilbros7/Mirror-Leech/master) 
+
 IF ANY COMMAND DOEST NOT WORKING GIVE ME CORRECT COMMAND HERE 
 
  [ID - Error 404 ](https://t.me/ERROR_404_V1)
